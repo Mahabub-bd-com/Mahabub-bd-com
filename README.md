@@ -2,6 +2,16 @@
 
 ![](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/432759367_6653367844764296_4509769012060948303_n.jpg?stp=dst-jpg_p180x540&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=AVpaWnQ9DlMAX_bOdEu&_nc_ht=scontent.fdac138-1.fna&oh=00_AfAmBVKq0YWob8NGKP5whCNiBe0F1t6gnoshVlzi4LXjiw&oe=65F77D26)
 
+![](https://scontent.fdac138-1.fna.fbcdn.net/v/t31.18172-8/12244466_701112443323229_5553973289664332826_o.jpg?stp=dst-jpg_p720x720&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Y6WUtSurc-wAX85rzkr&_nc_ht=scontent.fdac138-1.fna&oh=00_AfAOBwE707vDbgr2EDQtyL8cXK-Itq9pNSas1G2HLVntiQ&oe=661A7CF2)
+
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
 My Standards Are Too Simple and Common
 
 - Web Developer
