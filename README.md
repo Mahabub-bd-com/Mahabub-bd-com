@@ -4,7 +4,7 @@
 <html>
 <body>
 
-<img src="GitHub Banner.png" alt="" width="1000" height="300">
+<img src="GitHubBanner.png" alt="" width="970" height="330">
 
 </body>
 </html>
