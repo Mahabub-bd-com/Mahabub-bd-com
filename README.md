@@ -4,9 +4,7 @@
 <html>
 <body>
 
-<h1>The img element</h1>
-
-<img src="GitHub Banner.png" alt="Girl in a jacket" width="950" height="400">
+<img src="GitHub Banner.png" alt="" width="950" height="400">
 
 </body>
 </html>
