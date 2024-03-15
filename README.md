@@ -2,7 +2,7 @@
 
 ![GitHub Banner](https://github.com/Mahabub-bd-com/Mahabub-bd-com/assets/162690116/55479171-b07c-42eb-b472-caecff9d04ad)
 
-![GitHub Banner](https://github.com/Mahabub-bd-com/Mahabub-bd-com/assets/162690116/55479171-b07c-42eb-b472-caecff9d04ad)
+![GitHub Banner](https://github.com/Mahabub-bd-com/Mahabub-bd-com/assets/162690116/55479171-b07c-42eb-b472-caecff9d04ad style="width: 1000px; height: 360px;")
 
 My Standards Are Too Simple and Common
 
