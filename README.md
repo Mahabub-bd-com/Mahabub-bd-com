@@ -17,6 +17,8 @@ As a Front-End Web Developer, My Clients Trust Me. I am passionate about my agre
 - JavaScript
 - Python Django
 - HTML/CSS/Bootstrap
+- Tailwind CSS
+- React JS
 - Photoshop/Illustrator/Premiere Pro
 
 ## Business Inquiries
